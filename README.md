@@ -34,31 +34,31 @@ Untuk visualisasi, kita menggunakan gambar yang di-generate dari tools lain (mis
 
 | Prioritas | Tugas | Penanggung Jawab | Status | Batas Waktu |
 | :---: | :--- | :--- | :---: | :--- |
-| 🔥 | Desain Ulang Halaman Login | @diana | 🟢 Selesai | 20 Okt 2023 |
-| 🔥 | Integrasi API Pembayaran | @budi | 🟡 Sedang Dikerjakan | 27 Okt 2023 |
-| ⚠️ | Perbaikan Bug di Modul Keranjang | @chandra | 🟡 Sedang Dikerjakan | 26 Okt 2023 |
-|  Low | Update Dokumentasi API | @diana | ⏳ Belum Dimulai | 30 Okt 2023 |
+| 🔥 | Skenario UAT dan techdoc dari sisi vendor | @yusron | 🟢 Selesai | 23 Agustus 2025 |
+| 🔥 | Unwrite code debug di FE | @hidayat | 🟢 Selesai | 23 Agustus 2025 |
+| 🔥 | Handle connection release di BE | @ananta | 🟢 Selesai | 23 Agustus 2025 |
+|  Low | Persiapan infrastuktur live | @fajar | 🟢 Selesai | 23 Agustus 2025 |
 
 ---
 
 ### 📝 Tindak Lanjut Utama (Action Items)
 
-- [x] Selesaikan review UI/UX Halaman Login.
-- [ ] Jadwalkan meeting kickoff untuk Fase 2 dengan stakeholder.
-- [ ] Lakukan deployment ke server staging pada hari Jumat.
-- [ ] Follow-up ke tim QA mengenai hasil pengujian terakhir.
+- [v] Insert Log di bagian return parameter error.
+- [v] Skenario timeout, harusnya mengembalikan error berdasarkan techdoc.
+- [v] Enhance perubahan field pic dan nama merchant.
+- [v] Deploy ke master.
 
 ---
 
 ### 👥 Tim & Tautan Penting
 
 **Anggota Tim Aktif:**
-- **Project Manager:** @andi
-- **Frontend Lead:** @diana
-- **Backend Lead:** @budi
-- **QA Lead:** @chandra
+- **Project Manager:** @yusron
+- **Frontend Lead:** @hidayat
+- **Backend Lead:** @ananta
+- **Infra Lead:** @fajar
 
 **Tautan Penting:**
-- 📂 [Dokumentasi Proyek](https://link-to-docs.com)
-- 💻 [Repositori Kode (GitHub)](https://github.com/user/project-phoenix)
-- 📝 [Papan Kanban (Trello/Jira)](https://link-to-kanban.com)
+- 📂 [Dokumentasi Proyek](https://github.com)
+- 💻 [Repositori Kode (GitHub)](https://github.com)
+- 📝 [Papan Kanban (Trello/Jira)](https://github.com)
