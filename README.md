@@ -26,7 +26,7 @@ Untuk visualisasi, kita menggunakan gambar yang di-generate dari tools lain (mis
 | Grafik Burn-down Tugas | Distribusi Tugas per Tim |
 | :---: | :---: |
 | ![Grafik Burn-down](https://placehold.co/400x250/A9D18E/FFFFFF?text=Burn-down+Chart) | ![Distribusi Tugas](https://placehold.co/400x250/8FAADC/FFFFFF?text=Pie+Chart+Tugas) |
-| *Target vs. Realisasi Penyelesaian Tugas* | *Beban kerja tim Frontend, Backend, dan QA* |
+| *Target vs. Realisasi Penyelesaian Tugas* | *Beban kerja tim Frontend, Backend, dan Infra* |
 
 ---
 
