@@ -1,4 +1,4 @@
-#  Dashboard Proyek "BCA" 🚀
+#  Dashboard Proyek "API Mobitek BCA" 🚀
 
 *Terakhir diperbarui: 23 Agustus 2025, 18:30 WIB*
 
@@ -6,7 +6,7 @@
 
 ### 📊 Metrik Utama (KPI)
 
-| **Kemajuan Total** <br> 📈 `75%` | **Anggaran Terpakai** <br> 💰 `65%` | **Tugas Selesai** <br> ✅ `124 / 165` | **Isu Kritis Terbuka** <br> 🚨 `2` |
+| **Send Job Order** <br> 📈 `100%` | **Update Job Confirmation** <br> 📈 `100%` | **Asign Vendor Non Cluster** <br> 📈 `100%` | **Inquery Password** <br> 📈 `100%` |
 | :---: | :---: | :---: | :---: |
 
 ---
@@ -15,7 +15,7 @@
 
 **Status:** ✅ **On Track**
 
-> Proyek berjalan sesuai jadwal. Beberapa tugas minor mengalami keterlambatan, namun tidak mempengaruhi timeline utama. Fokus minggu ini adalah menyelesaikan integrasi API pembayaran.
+> Proyek berjalan sesuai jadwal. Beberapa tugas minor mengalami keterlambatan, namun tidak mempengaruhi timeline utama. Fokus minggu ini adalah menyelesaikan integrasi API UAT.
 
 ---
 
